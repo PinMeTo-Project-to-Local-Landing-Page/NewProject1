@@ -1,4 +1,4 @@
-# Store Locator Project
+# Local Lnading pages Project
 
 A TypeScript-based web application for locating and selecting stores. This project provides a user-friendly interface for searching and viewing store locations, with features like store filtering, nearby store selection, and detailed store information display.
 
@@ -184,5 +184,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com]
-Project Link: [https://github.com/yourusername/store-locator]
+Simon Abouelkhir - Simon.abouelkhir@gmail.com
+Project Link: https://github.com/PinMeTo-Project-to-Local-Landing-Page/NewProject1
